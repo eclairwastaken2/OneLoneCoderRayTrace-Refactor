@@ -1,0 +1,11 @@
+# Visual Studio
+.vs/
+*.suo
+*.user
+
+# Build outputs
+Debug/
+Release/
+*.obj
+*.exe
+*.pdb
